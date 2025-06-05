@@ -57,3 +57,9 @@ h1, h2{
 ul{
     padding-left: 50px;
 }
+
+footer{
+    color: hsl(327, 100%, 50%);
+    text-align: center;
+    padding-bottom: 48px;
+}
